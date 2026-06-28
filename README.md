@@ -5,4 +5,4 @@ This repository contains my deep learning project for binary classification of P
 ## To run this project in Google Colab
 Click the link below to open and run the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhibekeordaly/University-project-/blob/main/FinalProject.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhibekordaly/University-project-/blob/main/FinalProject.ipynb)
